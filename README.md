@@ -1,5 +1,8 @@
 # Codemotion Workshop
 
+[![codecov](https://codecov.io/gh/RaulKite/codemotion-library/branch/master/graph/badge.svg)](https://codecov.io/gh/RaulKite/codemotion-library)
+
+
 ## Requirements
 * Github account
 * Java 8
